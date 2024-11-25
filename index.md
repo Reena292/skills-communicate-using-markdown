@@ -7,3 +7,7 @@ int main()
 cout<<"I love the view of sunset over the ocean."<<endl;
 return 0;
 }
+```
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
